@@ -33,9 +33,10 @@ The main goal was to demonstrate how object-oriented programming and design patt
 - Add-ons such as helmet rental and insurance
 - Loyalty point discounts
 - Zone fees and no-ride zones
-- Automatic billing
+- Fleet management and vehicle availability tracking
+- Event-driven billing and ride logging
 - Ride logging
-- City factory setup for future expansion
+- City-specific configuration through Abstract Factory
 
 ## Repository Structure
 
