@@ -35,8 +35,11 @@ The main goal was to demonstrate how object-oriented programming and design patt
 - Zone fees and no-ride zones
 - Fleet management and vehicle availability tracking
 - Event-driven billing and ride logging
-- Ride logging
 - City-specific configuration through Abstract Factory
+
+## Academic Context
+
+This project was developed as part of the UC2OOP101 Object-Oriented Programming course and received a final grade of A.
 
 ## Repository Structure
 
@@ -48,3 +51,4 @@ cityride-oop-simulation/
 │   └── cityride_oop_simulation.ipynb
 ├── README.md
 └── .gitignore
+```
